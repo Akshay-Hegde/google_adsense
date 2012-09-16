@@ -1,4 +1,4 @@
-Pyrocms_adsense_widget
+Pyrocms Adsense Widget
 ======================
 
-Adsense widget for PyroCMS
+A Adsense widget for PyroCMS
